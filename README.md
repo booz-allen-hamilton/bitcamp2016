@@ -26,7 +26,7 @@ Amazon Echo and SparkFun Mbed Starter Kit for each member (up to four) of the wi
 Open an issue! If you'd rather not discuss issues on the public issue tracker, let us know where you are 
 and we'll come to you!
 
-Or, hit us up on Slack! Go [here](https://bah-bitcamp-2016.herokuapp.com/) for an invite.
+Or, hit us up on [Slack!](bah-bitcamp-2016.slack.com) Go [here](https://bah-bitcamp-2016.herokuapp.com/) for an invite.
 
 ## Shortlink
 
